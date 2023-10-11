@@ -31,6 +31,14 @@
 | Rhododendron | the temperate regions of Asia, North America, and Europe, and to the tropical regions of southeast Asia and northern Australia |
 | Hydrangea | Asia and the Americas |
 
+## References
+- [Github Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
+- [Github Organizing Information with Tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) 
+- [Youtube Embedding Images in Github](https://www.youtube.com/watch?v=8088ORqS3uY) 
+- [History of The Fiddle Leaf Fig](https://www.plantz.com/blog/the-ultimate-history-of-the-ficus-lyrata/#:~:text=The%20story%20of%20the%20fiddle,the%20Moraceae%20family%20of%20plants.) 
+- [About The Rhododendron](https://rhodygarden.org/our-plants/rhododendrons/about-rhododendrons/#:~:text=There%20are%20more%20than%201200,southeast%20Asia%20and%20northern%20Australia.) 
+- [The Meaning of Hydrangeas](https://www.thevalleysprings.com/hydrangeas-1)
+
 
 
 
