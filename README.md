@@ -24,6 +24,16 @@
 - The hydrangea : [Care Tips](https://www.tasteofhome.com/article/how-to-care-for-hydrangeas/)
 ![The Spruce blog photo](https://www.thespruce.com/thmb/fkyNzLButcjBhyBGBYZzMo_cOw0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/growing-hydrangeas-1402684-01-d22f3e7d2e594e3b9731a2c33e70e328.jpg)
 
+## Where to Find My Favorite Plants in the Wild.
+| Plant | Native Location |
+| --- | --- |
+| Fiddle Leaf Fig | West African coast |
+| Rhododendron | the temperate regions of Asia, North America, and Europe, and to the tropical regions of southeast Asia and northern Australia |
+| Hydrangea | Asia and the Americas |
+
+
+
+
 
 
 
