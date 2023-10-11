@@ -19,7 +19,11 @@
 ![Amazon image of a fiddle leaf fig tree](https://m.media-amazon.com/images/I/61-Cc9d+NPL._AC_UF894,1000_QL80_.jpg)
 
 - The rhododenron :  [Care Tips](https://www.gardeningknowhow.com/ornamental/shrubs/rhododendron/rhododendron-care.htm)
-![Wikipedia photo of rhododendrons in the wild](https://i0.wp.com/spokesman-recorder.com/wp-content/uploads/2022/04/feat_d67f0b77-03c1-4362-b679-72264fa5ffb3.jpg?fit=1024%2C576&ssl=1)
+![Minnesota spokesman photo Europe's oldest rhododendrum](https://i0.wp.com/spokesman-recorder.com/wp-content/uploads/2022/04/feat_d67f0b77-03c1-4362-b679-72264fa5ffb3.jpg?fit=1024%2C576&ssl=1)
+
+- The hydrangea : [Care Tips](https://www.tasteofhome.com/article/how-to-care-for-hydrangeas/)
+![The Spruce blog photo](https://www.thespruce.com/thmb/fkyNzLButcjBhyBGBYZzMo_cOw0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/growing-hydrangeas-1402684-01-d22f3e7d2e594e3b9731a2c33e70e328.jpg)
+
 
 
 
