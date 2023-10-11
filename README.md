@@ -5,7 +5,7 @@
 - Bannanas
 - Oranges
 - Peaches
-### Vegitables
+### Vegetables
 - Green beans
 - Brussel sprouts
 - Carrots
