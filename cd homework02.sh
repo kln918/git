@@ -30,3 +30,5 @@ kelceynicholas@Kelceys-MacBook-Air homework2 % mv text_file_23.txt file477.txt
 kelceynicholas@Kelceys-MacBook-Air homework2 % mv text_file_24.txt file202.txt 
 kelceynicholas@Kelceys-MacBook-Air homework2 % mv text_file_25.txt file699.txt
 
+
+
